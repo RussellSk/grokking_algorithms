@@ -21,4 +21,4 @@ def selectionSort(arr):
 if __name__ == "__main__":
     arr = [5, 3, 6, 2, 10]
     print("Array before sorting: ", arr)
-    print("Array after sorging: ", selectionSort(arr))
+    print("Array after sorting: ", selectionSort(arr))
