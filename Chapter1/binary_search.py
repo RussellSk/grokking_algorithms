@@ -1,3 +1,6 @@
+# Chapter 1
+# Binary search implementation
+
 def binary_search(list, item):
     # low and high keep track of which part of the list you'll search
     low = 0
