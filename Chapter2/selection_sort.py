@@ -1,3 +1,6 @@
+# Chapter 2
+# Selection sort implementation
+
 def findSmallest(arr):
     """Function to find the smallest element"""
     smallest = arr[0]  # Stores the smallest value
