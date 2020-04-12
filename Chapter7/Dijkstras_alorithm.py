@@ -1,5 +1,6 @@
 # Chapter 7
-# Dijkstra's algorithm implementation
+# Dijkstra's algorithm implementation, work only with positive weights
+# Use the Bellman-Ford algorithm for negative weights
 
 # Represent weighted graph as hash table and represent weights of edges
 graph = {}
